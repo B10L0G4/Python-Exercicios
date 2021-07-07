@@ -1,2 +1,2 @@
-# Python-Exerc-cios
+# Python-Exerccios
 Exercicios de estudo e teste em Python 
