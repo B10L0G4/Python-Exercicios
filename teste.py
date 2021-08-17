@@ -1,4 +1,4 @@
-a = int(input('testando')
+a = int(input('testando'))
 print(a)
               
         
